@@ -1,6 +1,6 @@
 ## Material Design Example Project
 
-Using the [material design lite framework]('http://www.getmdl.io/')
+Using the [material design lite framework](http://www.getmdl.io/)
 
 #### Getting Started
 Include these tags in your `index`
@@ -14,4 +14,4 @@ Include these tags in your `index`
 <script src="https://storage.googleapis.com/code.getmdl.io/1.0.5/material.min.js"></script>
 ```
 #### Customize your colors
-You can build your own css files using the color customizer with the [material design lite theme builder]('http://www.getmdl.io/customize/index.html')
+You can build your own css files using the color customizer with the [material design lite theme builder](http://www.getmdl.io/customize/index.html).
